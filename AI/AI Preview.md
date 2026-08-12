@@ -1,2 +1,2 @@
-Basic Prototype: Watch the [YouTub](https://youtu.be/CQQUVHcw-n0).
+Basic Prototype:(https://youtu.be/CQQUVHcw-n0).
  
