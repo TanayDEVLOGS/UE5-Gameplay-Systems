@@ -1,0 +1,32 @@
+## AI Combat & Damage
+
+The enemy uses a similar combat architecture to the player.
+
+### Features
+
+- AI attack logic
+- Enemy weapon tracing
+- Hit detection
+- Damage application
+- Enemy health system
+- Health bar
+- Death detection
+- Level restart on death
+
+The enemy weapon uses traces during attacks, similar to the player's weapon, allowing the same core hit-detection concept to be applied to AI-controlled combat.
+
+### Death Flow
+
+AI attack
+↓
+Weapon trace
+↓
+Hit Actor
+↓
+Apply Damage
+↓
+Enemy Health
+↓
+Health reaches 0
+↓
+Enemy death
